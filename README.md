@@ -1,1 +1,0 @@
-1ª criação do cabecalho e showCase.
